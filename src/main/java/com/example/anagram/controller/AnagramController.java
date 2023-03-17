@@ -1,8 +1,8 @@
 package com.example.anagram.controller;
 
-import com.example.anagram.unit.service.AnagramService;
-import com.example.anagram.unit.service.dto.AnagramInput;
-import com.example.anagram.unit.service.dto.AnagramOutput;
+import com.example.anagram.service.AnagramService;
+import com.example.anagram.service.dto.AnagramInput;
+import com.example.anagram.service.dto.AnagramOutput;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

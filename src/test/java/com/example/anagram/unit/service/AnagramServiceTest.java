@@ -1,7 +1,8 @@
 package com.example.anagram.unit.service;
 
-import com.example.anagram.unit.service.dto.AnagramInput;
-import com.example.anagram.unit.service.dto.AnagramOutput;
+import com.example.anagram.service.AnagramService;
+import com.example.anagram.service.dto.AnagramInput;
+import com.example.anagram.service.dto.AnagramOutput;
 import org.apache.commons.lang3.RandomStringUtils;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

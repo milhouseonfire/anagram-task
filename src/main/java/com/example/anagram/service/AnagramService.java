@@ -1,7 +1,7 @@
-package com.example.anagram.unit.service;
+package com.example.anagram.service;
 
-import com.example.anagram.unit.service.dto.AnagramInput;
-import com.example.anagram.unit.service.dto.AnagramOutput;
+import com.example.anagram.service.dto.AnagramInput;
+import com.example.anagram.service.dto.AnagramOutput;
 import org.springframework.stereotype.Service;
 
 import java.util.Arrays;
